@@ -1,0 +1,183 @@
+# Space Station: Defender — Support & FAQ
+
+Welcome to the official support page for **Space Station: Defender**. Below you'll find answers to commonly asked questions, gameplay tips, and contact information.
+
+---
+
+## Getting Started
+
+**What is Space Station: Defender?**
+
+Space Station: Defender is a 360° tower defense game set in deep space. You command an orbital station under siege from alien waves. Build turrets along your station's corridors, expand your fortress, and survive 100 levels of increasing difficulty across 5 enemy tiers.
+
+**What devices are supported?**
+
+Space Station: Defender requires iOS 16.0 or later and runs on iPhone and iPad.
+
+**Does the game require an internet connection?**
+
+No. The core gameplay is fully offline. An internet connection is only needed for Game Center leaderboards, achievements, and in-app purchases.
+
+---
+
+## Gameplay
+
+**How do I place turrets?**
+
+Tap any open turret slot along your station's corridors. A build menu will appear showing available turret types and their costs. Tap a turret to place it. Turret slots are the circular pads visible on each corridor segment.
+
+**What turret types are available?**
+
+There are 6 turret types, each unlocked as you progress:
+
+- **Blaster** — Rapid-fire energy weapon. Available from level 1.
+- **Laser** — Continuous beam with high single-target damage. Available from level 1.
+- **Ion Disruptor** — Slows and disrupts enemy movement. Unlocks at level 5.
+- **Missile Battery** — Area-of-effect explosive damage. Unlocks at level 10.
+- **Railgun** — Long-range precision shot with armor penetration. Unlocks at level 20.
+- **Flak Cannon** — Wide spread anti-swarm defense. Unlocks at level 30.
+
+Each turret can be upgraded through 5 tiers during gameplay.
+
+**How do station expansions work?**
+
+Between waves, you can purchase corridor expansions from your station core. Expansions add new corridor segments with additional turret slots. You can expand in any direction where an open connection point exists. As your station grows, you create more coverage and more deadly overlapping fields of fire.
+
+**What are abilities?**
+
+Abilities are powerful special attacks you can activate during waves. There are 5 abilities that unlock as you level up: Ion Pulse, Missile Barrage, Gravity Well, Solar Flare, and Quantum Rift. Each has a cooldown timer and costs in-level currency to activate.
+
+**What is Prestige?**
+
+After reaching level 100, you can choose to Prestige. This resets your level progress but grants permanent bonuses that make your station stronger in subsequent runs. It's designed for players who want to push for maximum power and leaderboard dominance.
+
+**What happens if my hull reaches zero?**
+
+If enemies breach your defenses and your station hull reaches zero HP, the level ends and you receive rewards based on how far you progressed in that attempt. You can retry the level immediately.
+
+---
+
+## Station Expansions & Walls
+
+**What happens when a corridor wall is destroyed?**
+
+When enemies damage a corridor wall enough to destroy it, all turrets on segments beyond the break lose connection and are disabled. The turret slots on disconnected segments become unavailable until the wall is repaired. Walls automatically repair between levels.
+
+**Can I build on disconnected segments?**
+
+No. If a wall is destroyed and segments are severed from the station core, the turret slots on those segments are disabled and cannot be built upon until the wall is repaired.
+
+---
+
+## Armory & Upgrades
+
+**What is the Armory?**
+
+The Armory is a permanent upgrade system where you spend star credits to improve your station across multiple categories. Armory upgrades persist between levels and even through Prestige resets.
+
+**What can I upgrade in the Armory?**
+
+Upgrade categories include turret damage, hull hit points, hull regeneration, shield strength, and more. Each category has up to 50 levels of improvement.
+
+**What are star credits?**
+
+Star credits are the permanent currency earned by completing levels, achieving milestones, and unlocking achievements. They are spent in the Armory on permanent upgrades. Star credits are separate from the in-level currency used to build and upgrade turrets during gameplay.
+
+---
+
+## In-App Purchases
+
+**What can I buy?**
+
+Space Station: Defender offers the following in-app purchases:
+
+- **Remove Ads** — A one-time purchase that permanently removes all banner and interstitial ads.
+- **Double Credits** — A one-time purchase that permanently doubles all star credit earnings.
+- **Starter Pack** — A one-time bundle of star credits to jumpstart your Armory upgrades.
+- **Credit Packs** — Various quantities of star credits available for purchase at any time.
+
+**Is the game pay-to-win?**
+
+No. Every level, turret, ability, and expansion can be earned through normal gameplay. In-app purchases allow you to accelerate your progress or remove ads, but they are never required to complete any content.
+
+**How do I restore purchases?**
+
+If you've previously purchased a non-consumable item (Remove Ads, Double Credits, or Starter Pack) and it isn't showing as active, go to the in-game store and tap "Restore Purchases." This will re-validate your purchases with the App Store and restore them to your device.
+
+**I was charged but didn't receive my purchase. What do I do?**
+
+First, try restarting the app and checking your internet connection. If the issue persists, tap "Restore Purchases" in the store. If that doesn't resolve it, please contact Apple Support at [reportaproblem.apple.com](https://reportaproblem.apple.com) for purchase-related billing issues, as all transactions are processed by Apple.
+
+---
+
+## Game Center
+
+**What leaderboards are available?**
+
+There are 5 leaderboards:
+
+- **Highest Level Reached** — Your all-time best level (Classic).
+- **Total Enemies Defeated** — Lifetime enemy kill count (Classic).
+- **Daily Kill Count** — Enemies defeated today (Recurring daily).
+- **Longest Win Streak** — Most consecutive levels won (Classic).
+- **Total Levels Won** — Lifetime levels completed (Classic).
+
+**How many achievements are there?**
+
+There are 16 achievements worth a total of 405 points, ranging from beginner milestones like "First Blood" (kill 100 enemies) to endgame challenges like "Station Legend" (reach level 100) and "Reborn" (prestige for the first time).
+
+**How do I access leaderboards and achievements?**
+
+From the main menu, tap the "Leaderboards" or "Achievements" button. You can also access them through the Game Center dashboard icon.
+
+**My Game Center progress isn't syncing.**
+
+Ensure you are signed into Game Center in your device Settings under Game Center. The game will attempt to authenticate and sync automatically each time it launches. If you see scores or achievements missing, try closing and reopening the app while connected to the internet.
+
+---
+
+## Troubleshooting
+
+**The game crashes on launch.**
+
+Try the following steps in order:
+
+1. Force-close the app and reopen it.
+2. Restart your device.
+3. Ensure your device is running iOS 16.0 or later.
+4. Check for app updates in the App Store.
+5. If the issue persists, delete and reinstall the app. Your Game Center progress and any purchases will be preserved.
+
+**The game runs slowly or drops frames.**
+
+Close other apps running in the background to free up memory. Space Station: Defender is optimized for most devices, but older hardware may experience occasional slowdowns during large wave encounters with many enemies and turrets active simultaneously.
+
+**My progress was lost.**
+
+Game progress is saved locally on your device. If you deleted and reinstalled the app, local save data may have been lost. Game Center achievements and leaderboard scores are stored in the cloud and will sync back automatically. In-app purchases can be restored via the "Restore Purchases" button in the store.
+
+**Audio isn't working.**
+
+Check that your device is not in Silent mode (the physical switch on the side of your device). Also verify that the in-game audio settings have music and sound effects enabled.
+
+---
+
+## Privacy
+
+Space Station: Defender does not collect, store, or share any personal data. The game does not use analytics tracking, advertising identifiers, or third-party data services. Game Center data is managed entirely by Apple. For more details, see our [Privacy Policy](https://github.com/YOUR_USERNAME/space-station-defender/blob/main/privacy.md).
+
+---
+
+## Contact & Support
+
+If your question isn't answered above, you can reach us at:
+
+**Email:** general@twelve52cards.com
+
+Please include your device model, iOS version, and a description of the issue. Screenshots or screen recordings are helpful when reporting bugs.
+
+We typically respond within 48 hours.
+
+---
+
+*Last updated: March 2026*
