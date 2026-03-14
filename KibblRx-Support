@@ -1,0 +1,88 @@
+# KibblRx Support
+
+## How Can We Help?
+
+KibblRx is a pet medication tracker designed to help you manage your pet's prescriptions, reminders, and wellness. If you're having trouble or have a question, you're in the right place.
+
+## Frequently Asked Questions
+
+### Getting Started
+
+**How do I add a pet?**
+Tap the Pets tab, then tap the + button. Enter your pet's name, species, breed, and weight. You can also add a photo from your camera or photo library.
+
+**How do I add a medication?**
+Open your pet's profile and tap "Add Medication." Enter the medication name, dosage, frequency, and the times of day it should be given. KibblRx will begin sending reminders automatically.
+
+**What schedules does KibblRx support?**
+KibblRx supports daily, twice daily, three times daily, every other day, weekly, and as-needed dosing schedules. You can set specific times for each dose.
+
+### Reminders & Notifications
+
+**I'm not receiving reminders. What should I do?**
+Make sure notifications are enabled for KibblRx in your device settings. Go to Settings > Notifications > KibblRx and ensure "Allow Notifications" is turned on. Inside the app, check Settings to confirm your notification status shows as Enabled.
+
+**Can I snooze a reminder?**
+Yes. When a dose reminder appears, you can tap "Snooze 15 min" to be reminded again shortly. You can also confirm the dose as given or skip it.
+
+**Can I add dose reminders to my iOS Calendar?**
+Yes. Go to Settings inside the app and toggle "Add Doses to Calendar." This creates events in a dedicated KibblRx calendar on your device for additional visibility on your Lock Screen and Calendar widgets.
+
+### Subscriptions & KibblRx+
+
+**What's included in the free version?**
+The free version includes one pet profile, unlimited medications and reminders, basic symptom logging, and 7 days of dose history.
+
+**What does KibblRx+ include?**
+KibblRx+ unlocks unlimited pet profiles, PDF vet reports with full history, wellness trend charts, refill tracking with alerts, caregiver sharing, and a home screen widget.
+
+**How do I subscribe to KibblRx+?**
+Tap the upgrade prompt in the app or go to Settings and tap "Upgrade to KibblRx+." You can choose between a monthly subscription ($2.99/month), yearly subscription ($19.99/year), or a one-time lifetime purchase ($49.99).
+
+**How do I cancel my subscription?**
+Subscriptions are managed through your Apple ID. Go to your device's Settings > Apple ID > Subscriptions, find KibblRx+, and tap Cancel Subscription. Your premium features will remain active until the end of the current billing period.
+
+**How do I restore my purchase on a new device?**
+Open KibblRx, go to the subscription screen, and tap "Restore Purchases." Your active subscription or lifetime purchase will be restored automatically.
+
+### Data & Privacy
+
+**Does KibblRx sync across devices?**
+Yes. KibblRx uses iCloud to sync your data across all Apple devices signed into the same iCloud account. Changes made on one device appear on the other automatically.
+
+**What if I don't use iCloud?**
+KibblRx works fully offline with local storage. If iCloud is unavailable or disabled, your data is stored on-device and all features continue to work normally. Syncing will resume if iCloud becomes available.
+
+**Does KibblRx share my data?**
+No. Your pet and medication data is stored locally on your device and in your private iCloud account. We do not collect, access, or share your personal data.
+
+### Vet Reports
+
+**How do I generate a vet report?**
+Open your pet's profile and tap "Vet Report." Select a date range, and KibblRx will generate a PDF summarizing your pet's medications, dose history, adherence, and wellness logs. You can email or print the report directly from the app.
+
+**Do I need KibblRx+ for vet reports?**
+Yes. PDF vet reports are a KibblRx+ feature.
+
+### Refill Tracking
+
+**How does refill tracking work?**
+When adding or editing a medication, enter the current pill count. KibblRx calculates how many days of supply remain based on your dosing schedule and alerts you when it's time to refill. You can also store your pharmacy name, prescription number, and vet contact info.
+
+**Do I need KibblRx+ for refill tracking?**
+Yes. Refill tracking with alerts is a KibblRx+ feature.
+
+## Contact Us
+
+If your question isn't answered above, we'd love to hear from you.
+
+**Email:** general@twelve52cards.com
+
+Please include a description of your issue along with your device model and iOS version. We typically respond within 48 hours.
+
+## App Information
+
+**Developer:** Twelve52
+**Current Version:** 1.0.0
+**Compatibility:** iOS 18.0 or later
+**Languages:** English
