@@ -1,0 +1,49 @@
+# KibblRx Privacy Policy
+
+**Effective Date:** March 14, 2026
+
+## Overview
+
+KibblRx is a pet medication tracking app developed by Twelve52. Your privacy matters to us. This policy explains how KibblRx handles your data.
+
+## Data We Do Not Collect
+
+KibblRx does not collect, transmit, or store any personal data on external servers. We do not operate servers, databases, or analytics platforms. We have no access to your information.
+
+Specifically, we do not collect:
+
+- Names, email addresses, or contact information
+- Pet names, medication details, or health records
+- Location data
+- Device identifiers or usage analytics
+- Advertising data
+
+## Where Your Data Lives
+
+All data you enter into KibblRx — including pet profiles, medications, dose history, and symptom logs — is stored locally on your device and, if you have iCloud enabled, in your private iCloud account.
+
+iCloud syncing is managed entirely by Apple through CloudKit. Your data is stored in your personal iCloud container, encrypted by Apple, and is not accessible to Twelve52 or any third party. If iCloud is disabled, your data remains on-device only.
+
+For more information on how Apple handles iCloud data, visit https://support.apple.com/en-us/102651.
+
+## Data Retention
+
+Because we do not collect your data, there is nothing for us to retain. Your data exists only on your devices and in your iCloud account. Deleting the app removes all local data. Removing KibblRx data from iCloud can be done through your device's iCloud storage settings.
+
+## Third-Party Services
+
+KibblRx does not integrate with any third-party analytics, advertising, or tracking services. The only external service used is Apple's StoreKit for processing in-app purchases and subscriptions, which is governed by Apple's own privacy policy.
+
+## Children's Privacy
+
+KibblRx does not collect personal information from anyone, including children under 13. The app contains no user accounts, no social features, and no data collection mechanisms.
+
+## Changes to This Policy
+
+If we update this privacy policy, we will post the revised version at this URL with an updated effective date. Continued use of KibblRx after changes constitutes acceptance of the revised policy.
+
+## Contact
+
+If you have questions about this privacy policy, contact us at:
+
+**Email:** general@twelve52cards.com
