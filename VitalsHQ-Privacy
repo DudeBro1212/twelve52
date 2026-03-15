@@ -1,0 +1,74 @@
+# Vitals HQ — Privacy Policy
+
+*Last updated: March 15, 2026*
+
+Vitals HQ ("the app," "we," "our") is built with a simple principle: your data belongs to you. This policy explains what we collect, how it's stored, and what we don't do.
+
+---
+
+## Data We Collect
+
+Vitals HQ stores the information you enter into the app, which may include:
+
+- Names, dates of birth, and profile details for you and your family members
+- Medications, dosages, schedules, and dose logs
+- Wellness check-ins (mood, energy, sleep, symptoms, vitals, notes, photos)
+- Events, appointments, and calendar entries
+- Contacts (doctors, teachers, employers, and other people relevant to each family member)
+- School, college, and work information
+- Growth measurements and vaccination records
+- Subscription status
+
+If you grant permission, the app also reads select data from Apple Health (HealthKit), such as heart rate, step count, and sleep data. This is used solely to display health information within the app and is never transmitted off your device.
+
+## Where Your Data Is Stored
+
+All data is stored in two places:
+
+1. **On your device** — in the app's local database.
+2. **In your private iCloud container** — to sync data across your devices and family members using Apple's CloudKit.
+
+We do not operate our own servers. We do not store your data on any third-party infrastructure. Your iCloud data is protected by Apple's encryption and access controls, and is governed by Apple's own privacy policy.
+
+## What We Don't Do
+
+- We **do not sell** your data to anyone, for any reason.
+- We **do not share** your data with advertisers, analytics providers, or data brokers.
+- We **do not use** third-party analytics SDKs or tracking frameworks.
+- We **do not display** ads of any kind.
+- We **do not collect** device identifiers, IP addresses, or usage analytics.
+- We **do not have access** to your iCloud data. Only you and the Apple IDs in your iCloud family group can access it.
+
+## Apple Health (HealthKit)
+
+If you choose to connect Apple Health, the app reads specific health categories (heart rate, steps, sleep) to display on your dashboard and optionally writes medication dose records back to HealthKit. This data is never shared with anyone, including us. HealthKit data is not stored in iCloud or transmitted off your device by the app.
+
+We do not use HealthKit data for advertising, marketing, or any purpose other than displaying it to you within the app.
+
+## Notifications
+
+Vitals HQ uses local notifications for medication reminders, event alerts, and wellness check-ins. These are scheduled entirely on your device. No notification data is sent to external servers.
+
+## Subscriptions
+
+Subscriptions are processed and managed entirely through Apple's App Store and StoreKit. We do not collect or store your payment information. Subscription status is checked locally on your device through Apple's APIs.
+
+## Children's Privacy
+
+Vitals HQ allows parents to create profiles for their children within the family management features. All child data is stored under the parent's account in the same on-device and iCloud storage described above. We do not knowingly collect personal information from children independently. A child's profile is always created and managed by a parent or guardian.
+
+## Data Retention and Deletion
+
+Your data persists as long as you keep it in the app. You can delete individual family member profiles at any time through Settings → Manage Profiles. Deleting the app removes all local data. iCloud data can be removed through your device's iCloud storage settings.
+
+If you downgrade your subscription, no data is deleted. Profiles beyond your plan's limit become read-only and can be fully restored by upgrading again.
+
+## Changes to This Policy
+
+If we make changes to this privacy policy, we will update the "Last updated" date at the top of this page. Continued use of the app after changes constitutes acceptance of the updated policy.
+
+## Contact
+
+If you have questions about this privacy policy or how your data is handled, please reach out.
+
+**Email:** briansolly@gmail.com
