@@ -1,0 +1,148 @@
+# Vitals HQ — Support
+
+Welcome to Vitals HQ support. Below you'll find answers to common questions, troubleshooting steps, and ways to reach us.
+
+---
+
+## Getting Started
+
+**What is Vitals HQ?**
+Vitals HQ is a life planner and health tracker for individuals and families. It brings medications, wellness check-ins, appointments, contacts, school info, and work details into a single private app.
+
+**How do I set up my profile?**
+When you first open Vitals HQ, you'll be guided through creating your profile with your name, date of birth, and basic health info. You can update any of this later in Settings → Manage Profiles.
+
+**How do I add family members?**
+Go to the Family tab and tap the "+" button. You can add a spouse, children, parents, or dependents. Each person gets their own profile with health tracking, contacts, and events tailored to their life stage.
+
+---
+
+## Subscriptions & Plans
+
+**What's included in the free plan?**
+The free plan supports a single profile with full access to medication tracking, wellness logs, events, contacts, and Siri Shortcuts.
+
+**What do the paid plans include?**
+
+- **Single** — One profile with premium features.
+- **Couple** — Two profiles with full cross-member management.
+- **Family** — Up to eight profiles with everything included.
+
+**What happens if I downgrade?**
+Your data is never deleted. Profiles beyond your new plan's limit become read-only — you can still view them, and medication reminders continue to fire. Upgrade again at any time to restore full access.
+
+**How do I manage my subscription?**
+Go to Settings → Subscription, or manage it through your Apple ID in the Settings app on your device under Subscriptions.
+
+---
+
+## Medications
+
+**How do I add a medication?**
+From the Health tab or any member's profile, tap "Add Medication." Enter the name, dosage, form, and schedule. Vitals HQ will send reminders at each scheduled time.
+
+**Can I track medications for family members?**
+Yes. When adding a medication, use the "For" picker at the top to choose any family member. You can also log doses and manage meds from any member's profile.
+
+**I'm not getting medication reminders.**
+Check the following: make sure notifications are enabled for Vitals HQ in your device Settings → Notifications; confirm the medication has scheduled times set (not "as needed"); and verify that the medication is marked as active.
+
+**What is the follow-up alert?**
+If you haven't confirmed a dose within 30 minutes of the scheduled time, Vitals HQ sends a second "overdue" notification as a safety net.
+
+---
+
+## Health & Wellness
+
+**What vitals can I track?**
+Temperature, heart rate, blood pressure, SpO2, weight, and respiratory rate. If you use Apple Watch or another HealthKit-compatible device, some of these pre-fill automatically.
+
+**How do wellness check-ins work?**
+Tap "Log Wellness" to rate energy, mood, sleep quality, appetite, and pain on a simple scale. Add symptom tags, notes, or photos. Over time this builds a history you can review with your doctor.
+
+**Does Vitals HQ connect to Apple Health?**
+Yes. Vitals HQ reads heart rate, step count, and sleep data from HealthKit (with your permission) and displays them on your dashboard. Medication doses can also be written to HealthKit.
+
+---
+
+## Family Features
+
+**Can family members manage each other's data?**
+Yes. Any member can add events, log medications, or record wellness data for any other member. A child can add a parent meeting to your calendar, and you can track your child's medications from your own device.
+
+**How does family sync work?**
+Vitals HQ uses iCloud to sync family data across devices. All members in your iCloud family group see the same data in real time. No third-party servers are involved.
+
+**Why are some family members showing a lock icon?**
+Locked members are beyond your current subscription tier's limit. Their data is fully preserved and medication reminders stay active, but editing is disabled until you upgrade.
+
+---
+
+## Contacts
+
+**What are member-specific contacts?**
+Each family member gets a contact list tailored to their life. A toddler's list includes pediatrician, babysitter, and daycare. A working adult sees employer and coworkers. A student gets teachers, coaches, and school counselors. These build dynamically based on each person's age, role, and life situation.
+
+**How do I add a contact?**
+Go to any member's profile → Overview → "Add Contact," or navigate to their Contacts section. Choose the relationship type and fill in the details.
+
+---
+
+## Events & Calendar
+
+**How do I add an event?**
+From the Today tab or Events tab, tap "+". Choose the event type, date, time, and which family member it's for. Set a reminder interval if you'd like an alert beforehand.
+
+**Can I see all family events in one place?**
+Yes. The Today tab shows a unified timeline across all family members. You can also filter by individual member using the name pills at the top.
+
+---
+
+## Siri & Shortcuts
+
+**What can I do with Siri?**
+You can say things like "Log a dose for Tommy," "What does Sarah have today," or "Log a headache for me." Vitals HQ supports Siri for medication logging, event queries, symptom logging, and more.
+
+**How do I set up Shortcuts?**
+Open the Apple Shortcuts app. Vitals HQ actions appear automatically under the app's name. You can combine them into custom automations — for example, a morning routine that reads today's schedule and pending doses.
+
+---
+
+## Privacy & Data
+
+**Where is my data stored?**
+All data is stored on your device and in your private iCloud container. Vitals HQ does not use third-party servers, analytics services, or advertising networks.
+
+**Can Vitals HQ see my health data?**
+Vitals HQ only accesses the HealthKit categories you explicitly grant permission for. You can review and revoke access at any time in Settings → Privacy & Security → Health on your device.
+
+**How do I delete my data?**
+Go to Settings → Manage Profiles to remove individual members, or delete the app to remove all local data. iCloud data can be managed through iCloud settings on your device.
+
+---
+
+## Troubleshooting
+
+**The app is running slowly.**
+Try closing and reopening the app. If the issue persists, make sure you're running the latest version from the App Store and that your device is on iOS 17 or later.
+
+**My data isn't syncing between devices.**
+Confirm that iCloud is enabled for Vitals HQ on all devices: Settings → [Your Name] → iCloud → Apps Using iCloud. Make sure all devices are signed into the same Apple ID.
+
+**A family member's profile shows the wrong life stage.**
+Go to Settings → Manage Profiles → select the member → edit their date of birth or override their life stage manually. Roles like spouse and parent always default to adult regardless of birth date.
+
+---
+
+## Contact Us
+
+If you can't find what you need here, we'd love to help.
+
+**Email:** briansolly@gmail.com
+**Response time:** We aim to reply within 24–48 hours.
+
+When reaching out, please include your device model, iOS version, and a description of the issue. Screenshots are always helpful.
+
+---
+
+*Vitals HQ is designed and built with your family's privacy and wellbeing in mind. Thank you for trusting us with what matters most.*
