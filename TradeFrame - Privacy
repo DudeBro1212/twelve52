@@ -1,0 +1,163 @@
+# TradeFrame — Privacy Policy
+
+**Effective Date:** March 16, 2026
+**Last Updated:** March 16, 2026
+
+Twelve52 LLC ("we," "us," or "our") built TradeFrame as a commercial application. This Privacy Policy explains how we collect, use, and protect your information when you use the TradeFrame iOS application ("App").
+
+---
+
+## Information We Collect
+
+### Information You Provide
+
+- **Business Information** — Company name, phone number, and email address entered in Settings. This information is stored locally on your device and used solely to populate your PDF reports, estimates, and invoices.
+
+- **Client Information** — Names, addresses, phone numbers, and email addresses of your clients. This data is entered by you and stored locally to manage your client relationships within the App.
+
+- **Job, Estimate, Invoice, and Payment Data** — Job details, line items, financial amounts, payment records, milestones, and notes you create while using the App. All of this data is entered by you and stored locally on your device.
+
+- **Signatures** — When you capture a customer signature (drawn on-screen or photographed), the image is stored with the associated estimate or report on your device.
+
+### Information Collected Automatically
+
+- **Photos and Camera** — When you use TradeFrame's camera to document jobs, photos are captured and stored within the App's local data store. Photos are never uploaded to our servers.
+
+- **Location Data** — With your permission, TradeFrame accesses your device's GPS coordinates when you take a photo. These coordinates are embedded in the photo metadata and optionally displayed as a watermark. Location data is captured only at the moment of photo capture and is not tracked continuously. If you deny location access, the App functions normally but photos will not include GPS data.
+
+- **Speech/Microphone** — With your permission, TradeFrame uses on-device speech recognition to transcribe voice notes when capturing photos. Audio is processed locally using Apple's Speech framework and is not transmitted to any external server. No audio recordings are stored — only the resulting text transcription.
+
+- **Calendar** — With your permission, TradeFrame reads and writes events to your default Apple Calendar to sync job schedules. We do not access calendars beyond what is necessary to create and manage job events.
+
+---
+
+## How Your Data Is Stored
+
+### Local Storage
+
+All data you enter into TradeFrame — clients, jobs, photos, estimates, invoices, payments, milestones, and settings — is stored locally on your device using Apple's Core Data framework. We do not operate our own servers and do not collect or transmit your data to any server we control.
+
+### iCloud Sync (CloudKit)
+
+If you are signed into iCloud on your device, TradeFrame uses Apple's CloudKit to sync your data across your iOS devices. This means your data is stored in your personal iCloud account, managed and encrypted by Apple under their privacy policies. When iCloud is unavailable (or in the iOS Simulator), the App falls back to local-only storage.
+
+We do not have access to your iCloud data. Synced data is governed by [Apple's Privacy Policy](https://www.apple.com/legal/privacy/).
+
+### Photo Storage
+
+Photos taken through TradeFrame are stored in the App's local data directory (not your device's Photo Library) and synced via CloudKit if iCloud is enabled. We do not upload, access, or process your photos on any external server.
+
+---
+
+## How We Use Your Information
+
+We use the information described above solely to:
+
+- Display your business information on PDF reports, estimates, and invoices you generate
+- Organize and present your client, job, and financial data within the App
+- Embed GPS coordinates and timestamps in job photos for documentation purposes
+- Transcribe voice notes to text for inclusion with photos and reports
+- Sync your data across your devices via iCloud (if enabled)
+- Schedule local notifications for job reminders, estimate/invoice nudges, and payment follow-ups
+- Create calendar events for scheduled jobs
+
+We do not use your data for advertising, profiling, marketing, or any purpose beyond operating the App for you.
+
+---
+
+## Third-Party Services
+
+### Apple Services
+
+TradeFrame integrates with the following Apple services, each governed by Apple's own privacy policies:
+
+- **CloudKit (iCloud)** — For data synchronization across your devices
+- **App Store / StoreKit** — For processing Premium subscription purchases
+- **Apple Calendar (EventKit)** — For job scheduling
+- **Speech Framework** — For on-device voice-to-text transcription
+- **Core Location** — For GPS tagging of photos
+
+### No Third-Party Analytics or Advertising
+
+TradeFrame does **not** include any third-party analytics SDKs, crash reporting services, advertising frameworks, or tracking pixels. We do not use Google Analytics, Firebase, Facebook SDK, or any similar service. We do not serve ads of any kind.
+
+---
+
+## Data Sharing
+
+We do **not** sell, rent, trade, or otherwise share your personal data with any third party.
+
+The only way your data leaves your device is:
+
+1. **iCloud Sync** — Your data syncs to your personal iCloud account (managed by Apple) if you are signed in.
+2. **PDFs You Share** — When you generate and share a PDF report, estimate, or invoice, you control who receives it through the iOS share sheet.
+3. **CSV Exports** — When you export data as CSV files, you control where those files are sent.
+
+In all cases, you initiate and control the sharing.
+
+---
+
+## Data Retention
+
+Your data remains on your device (and in your iCloud account, if synced) for as long as you use the App. We do not have access to delete your data remotely because we do not store it.
+
+To delete your data:
+
+- **Delete individual records** — Remove clients, jobs, estimates, invoices, photos, or payments within the App.
+- **Delete all App data** — Uninstall TradeFrame from your device. This removes all locally stored data.
+- **Delete iCloud data** — Go to iOS Settings → [Your Name] → iCloud → Manage Storage → TradeFrame, and delete the data.
+
+---
+
+## Children's Privacy
+
+TradeFrame is not directed at children under the age of 13. We do not knowingly collect personal information from children. If you believe a child has provided data through the App, please contact us so we can address it.
+
+---
+
+## Subscription and Payments
+
+Premium subscriptions are processed entirely through Apple's App Store using StoreKit. We do not collect, process, or store any payment information (credit card numbers, billing addresses, etc.). All payment processing is handled by Apple under their terms and privacy policies. You can manage or cancel your subscription through iOS Settings → [Your Name] → Subscriptions.
+
+---
+
+## Permissions Summary
+
+| Permission | Purpose | Required? |
+|---|---|---|
+| Camera | Take job documentation photos | Yes (for photo features) |
+| Location | GPS-stamp photos with coordinates | No (photos work without it) |
+| Microphone | Voice notes with real-time transcription | No (optional feature) |
+| Calendar | Sync job dates to Apple Calendar | No (optional feature) |
+| Notifications | Job reminders, invoice nudges, payment alerts | No (optional feature) |
+
+All permissions are requested at the point of use and can be changed at any time in iOS Settings.
+
+---
+
+## Security
+
+Your data is protected by:
+
+- **On-device encryption** — iOS encrypts all App data when your device is locked (Data Protection).
+- **iCloud encryption** — Data synced via CloudKit is encrypted in transit and at rest by Apple.
+- **No remote access** — We do not operate servers that store or access your data.
+
+---
+
+## Changes to This Policy
+
+We may update this Privacy Policy from time to time. Changes will be reflected in the "Last Updated" date at the top of this document. Continued use of the App after changes constitutes acceptance of the updated policy.
+
+---
+
+## Contact Us
+
+If you have questions about this Privacy Policy or your data, contact us at:
+
+**Twelve52 LLC**
+Email: briansolly@gmail.com
+
+---
+
+*TradeFrame is built by Twelve52 LLC. Your data is yours — we just help you organize it.*
