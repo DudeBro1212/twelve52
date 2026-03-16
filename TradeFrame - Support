@@ -1,0 +1,386 @@
+# TradeFrame — Help & FAQ
+
+*The contractor's job documentation app. Capture photos, track estimates and invoices, manage clients, and generate professional reports — all from your phone.*
+
+---
+
+## Getting Started
+
+### What is TradeFrame?
+
+TradeFrame is an iOS app built for contractors, tradespeople, and field professionals who need to document jobs with photos, manage estimates and invoices, track payments, and generate professional PDF reports. It's designed around the workflow of arriving on-site, capturing what you see, and having everything organized for clients, insurance companies, or your own records.
+
+### Free vs. Premium
+
+**Free** gives you client management, 1 active job, photo documentation with GPS and timestamps, voice notes, and calendar integration. **Premium** unlocks unlimited jobs, estimates, invoices, payment tracking, before/after photo pairing, all PDF reports, analytics, and data export. Premium is available as a monthly or annual subscription through the App Store.
+
+### First Steps
+
+1. **Add a client** — Go to the Clients tab and tap **+**. Enter their name, address, phone, and email.
+2. **Create a job** — From the client's detail page (or the Jobs tab), tap **+** and pick a job type, date, and any notes.
+3. **Take photos** — Open the job and tap **Take Photo**. Your photos are automatically tagged with GPS coordinates and a timestamp.
+4. **Build an estimate** — From the job detail, tap **Estimates**, then **+** to add line items, set tax and contingency rates, and generate a PDF to share.
+5. **Send an invoice** — Once work is done, create an invoice from the job detail, add line items, and share the PDF.
+6. **Record payments** — Swipe left on an invoice or tap into it to record payments as they come in.
+
+---
+
+## Jobs
+
+### How do I create a job?
+
+From the **Jobs** tab, tap the **+** button. Select a client, choose a job type, pick a date, and add any notes. The job will also be added to your Apple Calendar automatically (if you've granted calendar access).
+
+### What job types are available?
+
+General, Roof Repair, Roof Replacement, Electrical Rewire, Plumbing Repair, Plumbing Installation, HVAC Install, HVAC Repair, Painting Interior, Painting Exterior, Flooring, Drywall, Framing, Siding, Window Installation, Door Installation, Deck/Patio, Bathroom Remodel, Kitchen Remodel, Home Inspection, Insurance Claim, Warranty Work, and Other.
+
+### What do the job statuses mean?
+
+- **Active** — Work is in progress or scheduled.
+- **Complete** — The job is finished. Marking a job Complete will automatically accept any Draft or Sent estimates on that job (since the work was clearly approved).
+- **Archived** — Older jobs you want to keep for records but hide from your active workload.
+
+### Can I change a job's status?
+
+Yes. Open the job detail and tap the status badge next to "Status." You'll see options for Active, Complete, and Archived.
+
+---
+
+## Photos
+
+### How does photo documentation work?
+
+When you take a photo through TradeFrame, it automatically captures the GPS coordinates and timestamp. This metadata is embedded in the photo and can be displayed as a watermark — useful for insurance claims, dispute resolution, or proof-of-work documentation.
+
+### What is the watermark?
+
+The watermark is a small strip at the bottom of each photo showing the date/time, GPS coordinates, job type, and client name. You can toggle watermarking on or off in **Settings → Photo Settings**. You can also toggle between the original and watermarked version when viewing any photo.
+
+### How do voice notes work?
+
+When capturing a photo, tap the microphone icon to record a voice note. TradeFrame uses speech-to-text to transcribe your words in real-time. The transcription is saved with the photo and included in reports. This is useful for quickly noting conditions or details on-site without typing.
+
+### How do annotations work?
+
+Open any photo in the detail view and use the annotation tools to draw directly on the image. You can choose from 7 colors (red, orange, yellow, green, blue, white, black) and adjust the line width. Use this to circle damage, mark areas of concern, or highlight specific details for clients.
+
+### What is Before/After mode?
+
+Before/After mode (Premium) lets you pair two photos together — one taken before the work and one after. From the job detail, tap **Before/After Mode**. You can select existing photos from the job or capture new ones. Paired photos are labeled with orange "Before" and green "After" badges in the gallery.
+
+### Can I adjust photo quality?
+
+Yes. In **Settings → Photo Settings**, use the quality slider to set JPEG compression between 50% and 100%. Higher quality means larger file sizes. The default is 80%.
+
+---
+
+## Estimates
+
+### How do I create an estimate?
+
+From a job's detail page, tap **Estimates → +**. Give it a title, set your tax and contingency rates, then add line items. Each line item has a category (Materials, Labor, Equipment, Subcontractor, Permit, or Other), a description, quantity, unit, and unit price.
+
+### How is the estimate total calculated?
+
+The calculation is: **Subtotal** (sum of all line items) + **Contingency** (subtotal × contingency rate) = **Taxable Amount**. Then **Tax** (taxable amount × tax rate) is added to get the **Grand Total**.
+
+### What does contingency mean?
+
+Contingency is a percentage buffer (default 10%) added to the subtotal to cover unexpected costs. You can set it to 0% if you don't need it. The percentage is entered as a whole number (e.g., "10" for 10%).
+
+### How do I send an estimate to a client?
+
+Tap **Generate Estimate PDF** at the bottom of the estimate builder. This creates a professional PDF you can share via email, text, AirDrop, or any share method on your phone. When you dismiss the share sheet, the estimate is automatically marked as "Sent" with a timestamp.
+
+### What do the estimate statuses mean?
+
+- **Draft** — Created but not yet sent to the client.
+- **Sent** — The PDF has been shared with the client (or manually marked Sent).
+- **Accepted** — The client approved the estimate.
+- **Declined** — The client rejected it. You can record a reason (Cost Too High, No Budget, Changed Mind, Lost to Competitor, etc.) and additional notes.
+
+### Can a customer sign the estimate?
+
+Yes. The estimate builder has a **Customer Signature** section where you can capture the client's signature. They can sign directly on screen (draw mode) or you can photograph a signed copy (photo mode). The signature, name, and date appear on the PDF.
+
+### What happens to estimates when I mark a job Complete?
+
+Any Draft or Sent estimates are automatically changed to "Accepted" since the job was clearly approved. This keeps your pipeline analytics accurate.
+
+---
+
+## Invoices
+
+### How do I create an invoice?
+
+From a job's detail page, tap **Invoices → +**. Invoice numbers are auto-generated sequentially (INV-001, INV-002, etc.). Add line items, set the tax rate, due date, and any notes.
+
+### How do I record a payment?
+
+There are two ways: (1) Swipe left on an invoice in the invoice list and tap **Record Payment**, or (2) open the invoice and use the payment section. You can record the full balance or a partial amount, along with the payment method, date, reference number (check #, transaction ID), and notes.
+
+### What payment methods are supported?
+
+Cash, Check, Wire Transfer, ACH, Credit Card, Debit Card, Venmo, PayPal, Zelle, Money Order, Cashier's Check, and Other.
+
+### Can I record multiple payments on one invoice?
+
+Yes. Each payment is recorded individually with its own timestamp, method, and reference number. This creates a full audit trail. The invoice status automatically updates: Partial when some payment is received, Paid when the balance reaches zero.
+
+### What do the invoice statuses mean?
+
+- **Draft** — Created but not sent.
+- **Sent** — Shared with the client (auto-set when you share the PDF).
+- **Partial** — Some payment has been received but a balance remains.
+- **Paid** — Fully paid (balance due ≤ $0.01).
+- **Overdue** — Past the due date and not fully paid.
+- **Cancelled** — Voided. Cancelled invoices are excluded from financial totals.
+
+### How is "Overdue" determined?
+
+An invoice is overdue if its due date has passed and it is not fully paid. The default due date is 30 days from creation. You can change it when creating or editing the invoice.
+
+---
+
+## Payments & Revenue
+
+### How is Revenue calculated?
+
+Revenue is the total amount actually collected (paid) across all invoices. If an invoice is marked "Paid" but no individual payment was recorded through the payment sheet, the full invoice total is treated as revenue. This handles cases where you mark an invoice paid without logging each payment separately.
+
+### How is Outstanding calculated?
+
+Outstanding = Total Invoiced − Total Paid. It represents money billed but not yet collected.
+
+### What's the difference between Invoiced and Revenue?
+
+**Invoiced** is the total dollar amount you've billed across all non-cancelled invoices. **Revenue** is the total actually collected. They match when everything is paid in full; they differ when invoices are partially paid or unpaid.
+
+---
+
+## Milestones & Project Tracking
+
+### What are milestones?
+
+Milestones are trackable events or updates within a job. Use them to log phases of work, flag issues, record resolutions, or simply add progress updates. Each milestone has a title, type, status, date, and optional notes.
+
+### What milestone types are available?
+
+- **Phase** — A major stage of the project.
+- **Milestone** — A specific achievement or checkpoint.
+- **Update** — A general progress note.
+- **Issue** — Something that went wrong or needs attention.
+- **Resolution** — How an issue was resolved.
+
+### What statuses can a milestone have?
+
+Pending, In Progress, and Complete.
+
+---
+
+## Reports (Premium)
+
+### What reports can I generate?
+
+TradeFrame generates three types of PDF reports, all available from the job detail page:
+
+1. **Photo Report** — A visual document with all job photos, including watermarked versions, GPS data, and captions. Ideal for insurance claims or client documentation.
+
+2. **Progress Report** — A comprehensive project status document showing job details, milestone history, estimate summaries, invoice summaries, payment history, and a photo gallery.
+
+3. **Closeout Report** — A final project summary with complete financial reconciliation (estimated vs. invoiced vs. paid vs. outstanding), a customizable thank-you message, optional customer sign-off signature, and photo gallery. Use this when handing off a completed project.
+
+### Can I get a customer sign-off on the closeout report?
+
+Yes. The Closeout Report view has a **Customer Sign-Off** section. The client can sign on-screen or you can photograph their signature. Their name, signature, and date are included on the final PDF.
+
+### What do the reports look like?
+
+Reports use a professional navy and teal color scheme with your company name, phone number, and email displayed in the header. If you've uploaded a company logo in Settings, it appears as a watermark on the report pages.
+
+---
+
+## Analytics (Premium)
+
+### What does the Analytics dashboard show?
+
+The dashboard provides a financial and operational overview of your business within a selected date range:
+
+- **Revenue** — Total payments collected.
+- **Invoiced** — Total billed amount.
+- **Outstanding** — Unpaid balance.
+- **Jobs** — Number of jobs in the period.
+- **Estimate Pipeline** — Win rate, won/lost/pending counts and values.
+- **Rejection Breakdown** — Why estimates were declined, grouped by reason.
+- **Job Breakdown** — Jobs by status (Active/Complete/Archived) and by type with revenue per type.
+- **Client Value** — Clients ranked by revenue in the period.
+
+### Can I tap into the analytics numbers?
+
+Yes. Every metric in the analytics dashboard is tappable. Tapping navigates you to a filtered list of the relevant records (jobs, invoices, or estimates) where you can tap further into individual records to review or update them.
+
+### How does the Estimate Pipeline work?
+
+The pipeline tracks your estimates through their lifecycle:
+
+- **Total** — All estimates created in the period.
+- **Won** — Estimates on completed/archived jobs, or explicitly accepted. The dollar value shows actual invoiced revenue (not the original estimate amount) so it aligns with your Revenue number.
+- **Lost** — Declined estimates with their original estimated values.
+- **Pending** — Draft or Sent estimates on active jobs.
+- **Win Rate** — Won ÷ (Won + Lost) × 100.
+
+### How do I filter the analytics?
+
+Use the filter bar at the top to set a date range, job type, job status, and/or client. All metrics update to reflect the filtered data.
+
+---
+
+## Export (Premium)
+
+### What export formats are available?
+
+- **Jobs CSV** — One row per job with client, type, date, status, estimated/invoiced/paid/outstanding amounts, and photo/estimate/invoice counts.
+- **Estimates CSV** — One row per estimate with client, job type, title, status, grand total, and rejection details.
+- **Invoices CSV** — One row per invoice with client, job type, invoice number, status, total, paid amount, outstanding, and payment method.
+- **Summary PDF** — A printable report with aggregate statistics, job listings, and rejection analysis.
+
+### Where can I import the CSV files?
+
+The CSV files are compatible with QuickBooks, Excel, Google Sheets, and any accounting or spreadsheet software that reads CSV format.
+
+### How do I export?
+
+Go to the **Analytics** tab, set your desired filters, then scroll to the **Export Data** section. Tap **Export All** for the full package (3 CSVs + PDF) or **Jobs CSV** for just the job data. The share sheet will open so you can save, email, or AirDrop the files.
+
+---
+
+## Clients
+
+### How do client standings work?
+
+Each client has a standing that helps you track your relationship:
+
+- **New Client** — Assigned automatically to new clients.
+- **Good Standing** — Reliable, pays on time, easy to work with.
+- **Bad Standing** — Payment issues, difficult relationship.
+- **Disputed** — Active dispute or disagreement.
+- **Do Not Service** — You've decided not to work with this client again.
+
+You can change standing from the client detail page and add notes explaining why.
+
+### What is Address History?
+
+TradeFrame automatically detects when multiple clients share the same street address. This is common in property management, rental properties, or when ownership changes. The Address History section on a client's page shows all other clients at that address, helping you see the full history of work done at a property.
+
+### What does the client summary show?
+
+The client detail page shows an **Account Summary** with total jobs, estimates, and invoices for that client, plus their invoiced total, revenue (paid), and outstanding balance. Each job row shows its status, estimate count, invoice count, revenue, and outstanding amount.
+
+---
+
+## Notifications
+
+### What notifications does TradeFrame send?
+
+TradeFrame uses local notifications (not push from a server) to remind you about upcoming work and follow-ups:
+
+- **Job Reminders** — 24 hours and 1 hour before a scheduled job.
+- **Estimate Nudges** — If an estimate stays in Draft for 48 hours, you get a reminder to send it.
+- **Invoice Nudges** — If an invoice stays in Draft for 24 hours, you get a reminder to send it.
+- **Payment Reminders** — Reminds you about unpaid invoices after a configurable number of days (default: 7 days).
+
+### How do I configure notifications?
+
+Go to **Settings → Notifications**. You can toggle each notification type on or off individually and adjust the payment reminder interval (1–30 days). If notifications are disabled at the iOS system level, you'll see a link to open iOS Settings.
+
+### Do I need to be online for notifications?
+
+No. All notifications are scheduled locally on your device. They work without an internet connection.
+
+---
+
+## Calendar Integration
+
+### How does calendar sync work?
+
+When you create a job, TradeFrame adds an event to your default Apple Calendar with the job type, client name, address, and notes. Events are set for 2 hours with a 30-minute advance alarm. The dashboard shows a monthly calendar view with both your Apple Calendar events and TradeFrame jobs.
+
+### Do I need to grant calendar access?
+
+Yes. TradeFrame will ask for calendar permission on first use. If you decline, jobs won't appear on your calendar but the app still works normally. You can change this later in iOS Settings.
+
+---
+
+## Settings
+
+### What can I configure in Settings?
+
+- **Business Info** — Company name, phone, email, and logo. These appear on all PDF reports.
+- **Photo Settings** — Toggle watermarks on/off, adjust photo quality (50–100%), and set a default job type.
+- **Notifications** — Toggle each notification type and set the payment reminder interval.
+- **Subscription** — View your current plan, renewal date, restore purchases, or manage your subscription.
+
+### How do I add my company logo?
+
+Go to **Settings → Business Info** and tap the logo area. You can take a photo or choose from your library. The logo appears as a watermark on PDF reports. Tap the **×** button to remove it.
+
+---
+
+## CloudKit Sync
+
+### Does TradeFrame sync across devices?
+
+Yes. On devices signed into iCloud, TradeFrame uses CloudKit to sync your data across all your iOS devices. Changes made on one device will appear on others. In the simulator or when iCloud is unavailable, the app falls back to local-only storage.
+
+### Is my data backed up?
+
+When CloudKit sync is active, your data is stored in iCloud and backed up by Apple. Local-only data (simulator or no iCloud) is only on the device and should be backed up through standard iOS device backups.
+
+---
+
+## Troubleshooting
+
+### My financial numbers look wrong. What should I do?
+
+Navigate away from the screen and come back. TradeFrame refreshes all financial data when you open the Analytics, Job Detail, or Client Detail views. If numbers still seem off, check that your invoices have the correct status — an invoice marked "Paid" without a recorded payment will count its full total as revenue.
+
+### An estimate shows as "Pending" but the job is done.
+
+This shouldn't happen with the current version. Estimates on Complete or Archived jobs are automatically treated as "Won" in the pipeline. If you see this, try opening the job and toggling the status to another value and back to Complete.
+
+### I don't see my notifications.
+
+Check **Settings → Notifications** in TradeFrame to make sure the relevant type is toggled on. Then check iOS Settings → TradeFrame → Notifications to make sure system-level permissions are granted with alerts and banners enabled.
+
+### Photos aren't showing GPS data.
+
+Make sure Location Services are enabled for TradeFrame in iOS Settings → Privacy & Security → Location Services. TradeFrame needs "While Using" access to tag photos with coordinates.
+
+### Export isn't working.
+
+Make sure you have at least one job in the filtered date range. The export buttons are disabled when there's no data to export. Check your date range filters at the top of the Analytics view.
+
+---
+
+## Tips & Best Practices
+
+1. **Photograph everything** — Take photos before, during, and after work. GPS-stamped, timestamped photos are your best defense in any dispute.
+
+2. **Use voice notes on-site** — It's faster than typing. Describe what you see while the camera is open and the transcription saves with the photo.
+
+3. **Send estimates as PDFs** — Sharing the PDF automatically marks the estimate as "Sent" with a timestamp, creating a paper trail.
+
+4. **Record payments individually** — Even if a client pays in full, recording it through the payment sheet creates an audit trail with the method, reference number, and date.
+
+5. **Use milestones for CYA** — Log issues and resolutions as milestones. If a dispute arises later, you have a timestamped record of what happened and how it was handled.
+
+6. **Check Analytics weekly** — The pipeline and revenue cards give you a quick pulse on your business. The client value section shows who your best customers are.
+
+7. **Get signatures when possible** — For high-value estimates and closeout reports, capture the customer's signature. It's not required, but it's strong documentation.
+
+8. **Set up notifications** — The draft estimate and invoice nudges prevent money from slipping through the cracks. The payment reminder catches outstanding balances before they go stale.
+
+---
+
+*TradeFrame is built by Twelve52. For support, contact the email listed in Settings → Business Info or reach out through the App Store listing.*
