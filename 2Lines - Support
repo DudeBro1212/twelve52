@@ -1,0 +1,132 @@
+# Help & FAQ
+
+## Getting Started
+
+### What is 2Lines?
+
+2Lines is a conception-to-birth journey planner that guides you from trying to conceive, through pregnancy, and into life with your new baby. It combines evidence-based fertility tracking, pregnancy monitoring, and keepsake creation in one app.
+
+### What do the journey phases mean?
+
+**Trying to Conceive (TTC)**: Track your cycles, log fertility signs (BBT, cervical mucus, LH tests), and receive smart predictions for your most fertile days.
+
+**Pregnant**: Track your pregnancy week by week with size comparisons, daily symptom logging, doctor visit management, kick counting, and contraction timing.
+
+**Delivered**: Celebrate your journey with memory exports, keepsake creation, and a complete timeline of your experience.
+
+## Fertility Tracking (TTC)
+
+### How does 2Lines predict my fertile window?
+
+2Lines uses the Symptothermal Method (STM), which is the gold standard for fertility awareness. It cross-references multiple signs: your basal body temperature (BBT) for the post-ovulatory thermal shift, cervical mucus patterns using the Billings Ovulation Method, LH test strip results, and secondary signs like cervical position and ovulation pain.
+
+When two or more signs agree, prediction confidence increases. The more data you log, the more accurate predictions become.
+
+### How accurate are the predictions?
+
+Accuracy depends on how consistently you log data. Calendar-only predictions (based on cycle history alone) have the lowest confidence. Adding daily BBT readings, cervical mucus observations, and LH test results significantly improves accuracy. The Symptothermal Method has been shown to have 99.6% perfect-use efficacy in published research (Frank-Herrmann et al., 2007).
+
+2Lines always labels the prediction method and confidence level — it never presents uncertain estimates as definitive.
+
+### When should I take my BBT?
+
+Take your BBT first thing in the morning before getting out of bed, at approximately the same time each day. Use a basal body thermometer (accurate to 0.01°F). Log the reading immediately in your daily log.
+
+### What do the cervical mucus types mean?
+
+- **Dry**: No noticeable mucus — low fertility
+- **Sticky**: Thick, crumbly texture — low fertility
+- **Creamy**: Smooth, lotion-like — moderate fertility, approaching ovulation
+- **Watery**: Clear, wet, slippery — high fertility
+- **Egg White (EWCM)**: Stretchy, clear, resembles egg whites — peak fertility, ovulation is near or occurring
+
+### What is the fertile window?
+
+The fertile window is the approximately 6-day period each cycle when conception is possible — the 5 days before ovulation plus ovulation day. Sperm can survive up to 5 days in fertile-quality cervical mucus, and the egg survives 12-24 hours after ovulation.
+
+### Can I import cycle data from other apps?
+
+Yes. Enable Apple Health integration in Settings > Apple Health. 2Lines imports historical cycle data from Apple Health, which receives data from apps like Flo, Clue, Natural Cycles, and Apple's built-in Cycle Tracking. Your in-app entries always take priority over imported data.
+
+## Pregnancy Tracking
+
+### How are gestational weeks calculated?
+
+Gestational age is calculated from your last menstrual period (LMP) or your estimated due date. If you transition from TTC to Pregnant phase, 2Lines uses your tracked cycle data for the most accurate estimate.
+
+### What is kick counting?
+
+Starting around week 28, it's recommended to count your baby's movements daily. The standard method is to count 10 movements within 2 hours. If you enable kick count reminders, 2Lines will prompt you each evening.
+
+### When should I start timing contractions?
+
+Begin timing contractions when you notice regular, painful tightening. The 5-1-1 rule suggests heading to the hospital when contractions are 5 minutes apart, lasting 1 minute each, for at least 1 hour. 2Lines tracks your contraction patterns and checks against this rule automatically.
+
+## Exports & Keepsakes
+
+### What can I export?
+
+2Lines+ subscribers can export: Memory Book PDF, Video Slideshow (with heartbeat audio), Heartbeat Audio Compilation, Birth Plan PDF, Hospital Bag Checklist, BBT Chart, Contraction Log, Doctor Visits History, Medical Summary, and Data CSV.
+
+All PDFs feature professional branded templates. Exports can be shared via email, AirDrop, printed, or saved to Files.
+
+### How does the heartbeat compilation work?
+
+Each time you record your baby's heartbeat at an appointment, 2Lines saves it as an individual clip you can play anytime. When you export the "Heartbeat Compilation," all clips are merged chronologically into a single continuous audio file with short gaps between clips. This compiled audio also serves as the soundtrack for the Video Slideshow.
+
+### What is the Keepsake Bundle?
+
+The Keepsake Bundle is a one-time purchase that unlocks premium export features: high-resolution PDFs, 4K video slideshows, and lossless audio exports.
+
+## Subscriptions & Pricing
+
+### What's included in the free version?
+
+The free version includes full journey tracking for all phases: cycle logging, daily symptom tracking, doctor visit management, the fertility calendar, contraction timer, and birth plan creation.
+
+### What does 2Lines+ include?
+
+2Lines+ unlocks all export and keepsake features: PDF generation, video slideshow creation, audio compilation, partner sharing, and data export. Available as monthly ($3.99/mo), yearly ($29.99/yr, save 37%), or lifetime ($49.99 one-time).
+
+### How do I manage my subscription?
+
+Subscriptions are managed through Apple. Go to your device Settings > Apple Account > Subscriptions to change or cancel your plan.
+
+## Privacy & Security
+
+### Is my data private?
+
+Yes. All data is stored locally on your device and in your personal iCloud account. We do not operate servers, collect analytics, or share data with third parties. See our Privacy Policy for full details.
+
+### Can I lock the app?
+
+Yes. Enable App Lock in Settings > Security to require Face ID or Touch ID to open 2Lines.
+
+### How do I delete my data?
+
+Go to Settings > Delete All Data. This permanently removes all journey data, photos, recordings, and milestones from your device. This action cannot be undone.
+
+## Troubleshooting
+
+### My notifications aren't working
+
+1. Check that notifications are enabled in your device Settings > 2Lines > Notifications
+2. Ensure you've configured notification preferences in 2Lines Settings > Notification Preferences
+3. Make sure the toggles for the alert types you want are enabled
+
+### My Apple Health data isn't syncing
+
+1. Verify Apple Health integration is enabled in 2Lines Settings > Apple Health
+2. Check that 2Lines has read permission in the Health app > Sharing > Apps > 2Lines
+3. Tap "Sync Now" in Settings to force a refresh
+
+### My photos or recordings aren't appearing
+
+Ensure 2Lines has camera and microphone permissions. Go to your device Settings > 2Lines and verify Camera and Microphone access are enabled.
+
+## Contact & Support
+
+**twelve52 LLC**
+Email: briansolly@gmail.com
+
+We'd love to hear from you — whether it's feedback, a feature request, or a question we haven't covered here.
