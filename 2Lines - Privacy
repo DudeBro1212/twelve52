@@ -1,0 +1,119 @@
+# Privacy Policy
+
+**2Lines — Conception to Birth Journey Planner**
+Operated by twelve52 LLC
+Last updated: March 18, 2026
+
+## Introduction
+
+twelve52 LLC ("we," "our," or "us") built 2Lines as a premium fertility and pregnancy tracking application. This Privacy Policy explains how we collect, use, and protect your personal information when you use our app.
+
+We understand that fertility and pregnancy data is deeply personal. We are committed to keeping your data private, secure, and under your control.
+
+## Data We Collect
+
+### Data You Provide
+
+- **Journey data**: Phase (trying to conceive, pregnant, or delivered), due dates, cycle dates, baby name/nickname
+- **Daily logs**: Basal body temperature, cervical mucus observations, LH test results, flow intensity, cervical position, intimacy records, moods, symptoms, weight, blood pressure, kick counts, and journal notes
+- **Cycle history**: Menstrual cycle start/end dates, period lengths, ovulation observations
+- **Doctor visits**: Appointment dates, provider names, locations, test results, and notes
+- **Birth plan**: Birth preferences, pain management choices, companion names, pediatrician information
+- **Hospital bag**: Packing checklist items and status
+- **Contraction logs**: Timing, duration, and intensity
+- **Media**: Photos (ultrasound images, belly photos) and audio recordings (heartbeat recordings) that you capture or import
+- **Milestones**: Custom milestones and journal entries
+
+### Data from Apple Health (Optional)
+
+If you enable Apple Health integration, we read (never write) the following HealthKit data types:
+
+- Menstrual flow
+- Cervical mucus quality
+- Ovulation test results
+- Basal body temperature
+- Sexual activity
+- Body mass
+
+This data is imported into your local 2Lines journey to improve fertility predictions. You can disable this at any time in Settings.
+
+### Data We Do NOT Collect
+
+- We do not collect your name, email address, or phone number
+- We do not collect device identifiers for advertising
+- We do not collect location data
+- We do not use analytics or tracking SDKs
+- We do not serve advertisements
+
+## How Your Data Is Stored
+
+### On-Device Storage
+
+All your journey data is stored locally on your device using Apple's SwiftData framework. Your data never leaves your device unless you explicitly choose to:
+
+- Export a PDF, audio compilation, or video slideshow
+- Share data via AirDrop, email, or other share sheet options
+- Enable iCloud sync (which uses your personal iCloud account)
+
+### iCloud Sync
+
+If you use iCloud, your 2Lines data syncs across your Apple devices using Apple's CloudKit infrastructure. This data is encrypted in transit and at rest by Apple. We do not have access to your iCloud data. You can disable iCloud sync in your device's Settings > Apple Account > iCloud.
+
+### No Server-Side Storage
+
+We do not operate servers that store your personal data. There is no "2Lines account" — your data lives on your device and in your personal iCloud account.
+
+## How We Use Your Data
+
+Your data is used exclusively to:
+
+- Display your fertility tracking, pregnancy progress, and journey timeline within the app
+- Generate ovulation predictions and fertility window estimates using the Symptothermal Method
+- Schedule local notifications (fertile window alerts, appointment reminders, pregnancy updates)
+- Generate exportable PDFs, audio compilations, and video slideshows that you initiate
+- Sync your journey across your devices via your personal iCloud account
+
+We do not use your data for advertising, analytics, profiling, or any purpose beyond the app's core functionality.
+
+## Data Sharing
+
+We do not sell, rent, or share your personal data with any third parties.
+
+Your data may be shared only when:
+
+- You explicitly initiate a share action (email, AirDrop, print)
+- You enable partner sharing within the app (which uses Apple's CloudKit sharing)
+- Required by law (e.g., valid legal process)
+
+## Data Security
+
+- All data is stored using Apple's encrypted storage frameworks
+- iCloud data is encrypted in transit (TLS) and at rest by Apple
+- App Lock (Face ID / Touch ID) is available to prevent unauthorized access
+- No data is transmitted to third-party servers
+
+## Your Rights and Controls
+
+You have full control over your data:
+
+- **View**: All your data is visible within the app
+- **Export**: Export your data as CSV, PDF, or media files at any time
+- **Delete**: Delete all data from Settings > Delete All Data. This permanently removes all journey data from your device.
+- **Apple Health**: Enable or disable HealthKit integration at any time in Settings
+- **Notifications**: Configure or disable any notification type in Settings > Notification Preferences
+- **iCloud**: Disable iCloud sync via your device's Settings
+
+## Children's Privacy
+
+2Lines is not directed at children under 13. We do not knowingly collect personal information from children under 13. If you believe a child under 13 has provided data through the app, please contact us.
+
+## Changes to This Policy
+
+We may update this Privacy Policy from time to time. Changes will be reflected in the "Last updated" date above and made available within the app.
+
+## Contact
+
+If you have questions about this Privacy Policy or your data, contact us at:
+
+**twelve52 LLC**
+Email: briansolly@gmail.com
