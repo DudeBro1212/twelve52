@@ -33,11 +33,25 @@ We do not operate our own servers. We do not store your data on any third-party 
 ## What We Don't Do
 
 - We **do not sell** your data to anyone, for any reason.
-- We **do not share** your data with advertisers, analytics providers, or data brokers.
-- We **do not use** third-party analytics SDKs or tracking frameworks.
-- We **do not display** ads of any kind.
-- We **do not collect** device identifiers, IP addresses, or usage analytics.
+- We **do not share** your personal health data, medication data, or family data with advertisers, analytics providers, or data brokers.
+- We **do not collect** usage analytics beyond what is described in the Advertising section below.
 - We **do not have access** to your iCloud data. Only you and the Apple IDs in your iCloud family group can access it.
+
+## Advertising
+
+Vitals HQ displays banner advertisements provided by Google AdMob to users on the free plan. All ads are removed for active subscribers (Single, Couple, or Family plans). If a subscription expires or is cancelled, ads will resume.
+
+When ads are displayed, Google AdMob may collect the following data:
+
+- **Device identifiers** (such as the Advertising Identifier / IDFA, if you grant tracking permission)
+- **IP address** (used for approximate location-based ad targeting)
+- **General device information** (device model, OS version, screen size)
+
+This data is collected and processed by Google in accordance with [Google's Privacy Policy](https://policies.google.com/privacy). Vitals HQ does not have access to this data.
+
+You can opt out of personalized advertising at any time by going to your device's **Settings → Privacy & Security → Tracking** and disabling tracking for Vitals HQ. You may also limit ad tracking under **Settings → Privacy & Security → Apple Advertising**. When tracking is disabled, you will still see ads, but they will not be personalized to your interests.
+
+None of your health data, medication data, wellness logs, family information, or any other data you enter into Vitals HQ is ever shared with Google or any advertising partner.
 
 ## Apple Health (HealthKit)
 
