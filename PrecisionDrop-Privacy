@@ -1,0 +1,61 @@
+Privacy Policy
+Precision Drop
+
+Last updated: September 12, 2026
+
+Precision Drop ("the App") is developed and published by Twelve52 LLC ("we", "us", "our"). This policy explains what information the App and the services it uses collect, and what choices you have.
+
+1. No account, no sign-up
+The App has no accounts. We never ask for your name, email address, phone number, or date of birth, and we do not operate a server that stores information about you.
+
+2. Data stored on your device
+Your progress and preferences are written to standard iOS local storage (UserDefaults) on your device only. This includes:
+- Current level, highest level reached, and your best completion time per level
+- Power-up counts, lives, capacity upgrades, your Drops balance, and unlocked or purchased ball skins
+- Audio settings, handedness, and the equipped ball skin
+- A record of which in-app purchases you own, including Remove Ads
+- Ad pacing bookkeeping, such as the time the last interstitial was shown and how many free rewarded packs you claimed today
+
+This data stays on your device. Deleting the App deletes it. There is no cloud backup of it from us, so reinstalling starts a fresh save.
+
+3. Advertising (Google AdMob)
+The App shows ads supplied by Google AdMob in three formats:
+- Banner: a small ad anchored at the bottom of the screen
+- Interstitial: an occasional full screen ad, shown only after positive moments such as completing a level or closing an unlock celebration
+- Rewarded: an optional video you choose to watch in exchange for an in-game benefit, such as continuing after running out of lives, refilling power-ups, or trying a locked ball skin for one level
+
+Google may collect and process data to select, deliver, and measure ads. That can include a device advertising identifier, IP address, general location derived from IP address, device and operating system information, and interactions with the ads. Google's practices are described at policies.google.com/privacy and policies.google.com/technologies/partner-sites.
+
+Where required by law, the App presents a consent message from Google's User Messaging Platform before ads are personalized. You can reopen those choices at any time from Settings, Privacy & Ads, Privacy Options, when that option is shown in your region.
+
+4. App Tracking Transparency
+On iOS, the App asks for your permission before third-party services may track you across apps and websites owned by other companies. If you decline, ads still appear but are not personalized using a cross-app identifier. You can review or change this in the iOS Settings app under Privacy & Security, Tracking. Apple does not allow an app to reset that prompt itself, so the Privacy & Tracking row in the game opens iOS Settings once you have answered it.
+
+5. In-app purchases
+The App offers optional purchases handled entirely by Apple through the App Store:
+- Remove Ads, $1.99, a one-time non-consumable purchase that turns off banner and interstitial ads. Rewarded videos remain available because you choose when to watch them.
+- Drops, the in-game currency, sold in packs of 25, 75, 200, 500 and 1,200 (consumable purchases). Drops can also be earned by playing.
+- The Starter Pack, a one-time bundle of Drops and a ball skin
+
+Apple processes every transaction. We never see or store your payment details. The App reads your purchase entitlements from Apple's StoreKit so it can unlock what you bought, and mirrors that entitlement locally so it works offline.
+
+6. Game Center
+If you sign in to Game Center, Apple handles your Game Center profile and your leaderboard entries. The App submits your level completion times to Apple's leaderboards under your Game Center identity. Apple's privacy policy applies to that data and is available at apple.com/legal/privacy.
+
+7. Children
+The App is not directed to children under 13 and we do not knowingly collect personal information from them. The App contains third-party advertising as described above.
+
+8. Your choices
+- Purchase Remove Ads to turn off banner and interstitial ads
+- Decline tracking in the App Tracking Transparency prompt, or change it later in iOS Settings
+- Where offered, change your consent choices from Settings, Privacy & Ads, Privacy Options
+- Delete the App to remove all locally stored game data
+
+9. Retention
+We hold no personal data, so there is nothing for us to retain or delete on your behalf. Local game data lives on your device until you delete the App. Data collected by Google and Apple is retained under their own policies.
+
+10. Changes
+We may update this policy. Material changes will be posted here with a new revision date.
+
+11. Contact
+Questions about this policy can be sent to general@twelve52cards.com
