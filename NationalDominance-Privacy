@@ -1,30 +1,43 @@
 Privacy Policy
-National Dominance
 
-Last updated: September 12, 2026
+Last updated: September 14, 2026
 
-National Dominance ("the App") is developed by Twelve52 LLC ("we", "us", or "our"). This Privacy Policy explains how information is collected, used, and disclosed when you use the App.
+National Dominance ("the App") is made by twelve52 LLC ("we", "us", "our"). This page explains what information the App handles and what you can do about it.
 
-Information We Collect The App itself does not collect, store, or transmit any personal information to our servers. We do not require account creation, and we do not ask for your name, email address, or any other personal details.
+Playing without an account
+Your game saves, settings, and progress are stored on your device. You can play the whole game this way. We never see that data, and it stays on your device until you delete the App.
 
-Game data such as your high score, settings, and progress are stored locally on your device using standard iOS storage and are never transmitted off your device.
+Playing with an account
+Competing on the daily ladders, raiding other players, and joining a bloc are optional and require signing in with Apple. When you sign in, we create an account for you on our servers. It holds:
 
-Third-Party Services The App uses the following third-party services that may collect information:
+The ID Apple assigns to you, and an email address if Apple shares one with us (Apple can give you a private relay address instead of your real one)
+Your display name, and the nation and region you chose
+Your Game Center player ID, which we use to keep one person from running several accounts
+Your daily scores, ladder standing, raid history, and bloc membership
+A push notification token, only if you allow notifications about raids
 
-Google AdMob — We display ads through Google AdMob. Google may collect and use data to serve personalized or non-personalized ads, including device identifiers, IP address, and usage data. You can review Google's privacy policy at policies.google.com/privacy. Where required by law, the App presents a consent message from Google's User Messaging Platform before ads are personalized, and you can reopen those choices from the App's settings when that option is shown in your region.
+Your display name, nation, and scores are visible to other players on the boards, and your nation can be raided by other players. We use this data only to run the competition. We do not sell it, and we do not share it with advertisers.
 
-Apple Game Center — If you choose to sign in to Game Center, Apple handles your Game Center profile and leaderboard data according to Apple's privacy policy at apple.com/privacy.
+Deleting your account
+You can delete your account at any time inside the App. Go to Settings, then Account, then Delete Account. Everything listed above is removed from our servers right away. Your local saves stay on your device. If you ever have trouble with this, email us and we will remove it for you.
 
-App Tracking Transparency — On iOS 14.5 and later, the App will request your permission before allowing third-party services to track your activity across other apps and websites. You can change this permission at any time in your device's Settings.
+Advertising
+Ads are provided by Google AdMob. Google may use your device's advertising identifier, IP address, and usage data to show and measure ads. Google's privacy policy is at policies.google.com/privacy. When the App first asks, you decide whether to allow tracking across other apps and websites. You can change that later under Settings, Privacy, Tracking on your device. Where the law requires it, an Ad Privacy Options button appears in the App's Settings. You can also remove ads with a one-time purchase.
 
-In-App Purchases The App offers an optional one-time purchase to remove ads. This transaction is processed entirely by Apple through the App Store. We do not receive or store any payment information.
+Purchases
+All purchases go through Apple. We never receive or store your payment details.
 
-Children's Privacy The App does not knowingly collect personal information from children under the age of 13. The App contains third-party advertising which may collect data as described above.
+Game Center
+If you use Game Center, Apple handles your Game Center profile and leaderboard data under Apple's privacy policy at apple.com/privacy.
 
-Data Retention Since we do not collect personal data, there is no personal data to retain. Local game data remains on your device until you delete the App.
+Notifications
+Reminders and raid alerts are optional. You can turn them off in the App's Settings or on your device at any time.
 
-Your Choices You can opt out of personalized advertising by adjusting your device settings under Settings > Privacy > Tracking. You can also purchase the remove-ads option within the App to eliminate all advertising.
+Children
+The App is not directed at children under 13, and we do not knowingly collect personal information from them.
 
-Changes to This Policy We may update this Privacy Policy from time to time. Any changes will be reflected on this page with an updated revision date.
+Changes
+If this policy changes, the new version will appear on this page with an updated date.
 
-Contact Us If you have any questions about this Privacy Policy, please contact us at general@twelve52cards.com
+Contact
+Questions about this policy: general@twelve52cards.com
