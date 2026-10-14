@@ -1,29 +1,79 @@
-Privacy Policy
+Valemark Privacy Policy
 
-Last updated: March 2, 2026
+Effective date: October 14, 2026
 
-This game ("the App") is developed by twelve52 LLC ("we", "us", or "our"). This Privacy Policy explains how information is collected, used, and disclosed when you use the App.
+Valemark ("the App") is developed by twelve52 LLC ("we", "us", or "our"). This Privacy Policy explains what information the App collects, why, who receives it, and the choices you have. It covers the iPhone and iPad (iOS), Android, and Steam versions of the App.
 
-Information We Collect The App itself does not collect, store, or transmit any personal information to our servers. We do not require account creation, and we do not ask for your name, email address, or any other personal details.
+The Short Version
+- The App never asks for your name, email address, or phone number, and you do not create an account with us.
+- The App makes a random, anonymous account id so your purchases, daily rewards, and save transfers work. It is not linked to your name.
+- On iOS and Android the App shows optional rewarded ads through Google AdMob and uses Google Firebase Analytics. On Steam there are no ads and no Firebase.
+- We never receive your card or bank details. Purchases are handled by Apple, Google, or Steam.
+- We do not sell your information.
 
-Game data such as your high score, settings, and progress are stored locally on your device using standard iOS storage and are never transmitted off your device.
+Your Anonymous Account Id
+The first time it runs, the App creates a random account id (a UUID). On iOS it is kept in your device's Keychain and your own iCloud so it survives a reinstall. The App also signs in to our game server anonymously with a temporary session that has no email or password. We use the account id to keep track of your purchases, daily reward calendar, subscription status, and save transfers, and to stop cheating and abuse.
 
-Third-Party Services The App uses the following third-party services that may collect information:
+Information Stored on Our Game Server
+Our game server is run on Supabase, a cloud database provider that stores data on our behalf. It holds:
+- Your anonymous account id, your platform (iOS, Android, or Steam), and the App version.
+- Purchase records: the product, the date, and the store's transaction or order id (an Apple transaction, a Google Play order, or a Steam order). We use these to give you what you paid for, to restore it, and to handle refunds and fraud. We never receive your payment card or bank details.
+- Daily reward calendar and subscription status.
+- Save transfers, if you use Transfer to Another Device. Your characters and progress are packed into a bundle and uploaded with a one-time code. The code expires after 24 hours and is stored only in a scrambled (hashed) form. Once the code is used, the bundle stays readable by the receiving device for 7 days and then its contents are erased. To prevent code guessing, the server records attempts, including the network (IP) address they came from, for rate limiting.
+- Anonymous gameplay data, if "Share Anonymous Gameplay Data" is on in Settings (it is on by default). These are game events such as level reached, zone, and which reward buttons were used, tagged with a random install id. They help us balance the game. You can turn this off in Settings at any time.
+- Bug reports and feedback you choose to send from the App. A report contains the text you write plus the App version, platform, language, and device model, so we can reproduce the problem.
 
-Google AdMob — We display ads through Google AdMob. Google may collect and use data to serve personalized or non-personalized ads, including device identifiers, IP address, and usage data. You can review Google's privacy policy at policies.google.com/privacy.
+Game Data on Your Device
+Your characters, settings, and progress are saved on your device. On iOS they can also be kept in your own iCloud, and on Android in your own Google Play Games saved games, so you can continue on another device. Apple and Google hold that data under their own privacy policies; we cannot read it.
 
-Apple Game Center — If you choose to sign in to Game Center, Apple handles your Game Center profile and leaderboard data according to Apple's privacy policy at apple.com/privacy.
+Advertising: Google AdMob (iOS and Android only)
+The App offers rewarded ads. They are always optional: an ad only plays when you press a button that offers a reward. There are no banner ads, and the App has no "remove ads" purchase. Google AdMob may collect device identifiers (including the advertising identifier, if you allow it), your IP address (from which an approximate location can be derived), and ad interaction and diagnostic data to serve, measure, and protect ads. Google's privacy policy is at policies.google.com/privacy.
+- Consent. Where the law requires it (for example the European Economic Area, the United Kingdom, Switzerland, and some US states), the App shows Google's consent form before any ad is requested. If you do not consent, or choose Do not consent, you can still receive non-personalized ads, which use only limited data and do not use your past activity. In US states with privacy laws you can opt out of the sale or sharing of your information through the same form.
+- App Tracking Transparency (iOS). On iOS the App asks your permission through Apple's tracking prompt before the ad software starts. If you allow tracking, ads may be personalized and your advertising identifier may be used to track you across apps and websites owned by other companies. If you decline, the App does not track you and ads are not personalized. Declining changes nothing in the game. You can change this at any time in iOS Settings > Privacy & Security > Tracking.
+- To change the choice you made in Google's consent form, contact us, or delete and reinstall the App, which shows the form again. On Android you can also reset or delete your advertising ID in your device settings.
 
-App Tracking Transparency — On iOS 14.5 and later, the App will request your permission before allowing third-party services to track your activity across other apps and websites. You can change this permission at any time in your device's Settings.
+Analytics: Google Firebase (iOS and Android only)
+The App uses Google Firebase Analytics in a minimal way. It starts only after the consent step above is finished, and the App logs no events of its own. Firebase records its standard automatic events (such as first open, app updates, and sessions) and ad impressions, along with device model, operating system version, country, and an app instance id. Ad-related signals follow the consent you gave in Google's form. We use this to understand how many people play and to measure ads. Google's privacy policy is at policies.google.com/privacy.
 
-In-App Purchases The App offers an optional one-time purchase to remove ads. This transaction is processed entirely by Apple through the App Store. We do not receive or store any payment information.
+Crash and Diagnostic Data
+The App does not include a crash-reporting library. If you have chosen to share analytics or diagnostics with Apple or Google in your device settings, they may share crash reports and performance data with us without identifying you. On Steam, Valve may do the same under Steam's settings.
 
-Children's Privacy The App does not knowingly collect personal information from children under the age of 13. The App contains third-party advertising which may collect data as described above.
+Purchases
+The App offers optional in-app purchases (Valen Crystal packs, Patron, and Unlimited Characters) and an optional monthly subscription, the Votary's Tithe. Payments are processed entirely by Apple (App Store), Google (Google Play), or Valve (Steam). We receive only the information described under "Purchase records" above, and never your card or bank details. On iOS and Android each purchase is tagged with your anonymous account id so it can be restored and checked. On Steam, the App sends Steam a ticket so Steam can confirm your purchase; we receive your Steam account number (SteamID) and order id for that purpose.
 
-Data Retention Since we do not collect personal data, there is no personal data to retain. Local game data remains on your device until you delete the App.
+Refund Requests and Purchase Data (iOS)
+When you ask Apple for a refund, Apple may ask us how the purchase was used. The App only answers if you have turned on "Share Purchase Use for Refunds" in Settings > Privacy. It is off unless you turn it on. When it is on, we tell Apple whether the purchase was delivered and how much of it you used (for example, how many of the purchased crystals were spent), and whether we suggest a refund. Apple decides every refund. Turning the setting off stops any future answers. Google Play and Steam do not ask for this information.
 
-Your Choices You can opt out of personalized advertising by adjusting your device settings under Settings > Privacy > Tracking. You can also purchase the remove-ads option within the App to eliminate all advertising.
+When Apple, Google, or Steam tells us a purchase was refunded or revoked, the server removes what it granted (for example, crystals that were refunded are taken back, never below zero).
 
-Changes to This Policy We may update this Privacy Policy from time to time. Any changes will be reflected on this page with an updated revision date.
+Game Center and Other Sign-Ins
+The App does not use Apple Game Center. The App does not ask you to sign in with Apple, Google, Facebook, or any other account. On Android, Google Play Games may be used to store your saved games in your own Google account.
 
-Contact Us If you have any questions about this Privacy Policy, please contact us at general@twelve52cards.com
+Sharing
+We do not sell your personal information. We share information only with the service providers named in this policy (Supabase, Google AdMob, Google Firebase, Apple, Google Play, and Valve's Steam) so they can provide their services, or when the law requires it.
+
+Children's Privacy
+The App is rated for players aged 13 and older and is not directed to children. We do not knowingly collect personal information from children under 13. If you believe a child under 13 has sent us information, contact us and we will delete it.
+
+Data Retention
+- Save transfer bundles: the code expires after 24 hours; a used bundle's contents are erased 7 days after it is claimed.
+- Code attempt records, including IP addresses, are kept only as long as needed to stop abuse.
+- Purchase records are kept as long as needed to provide, restore, and refund your purchases and to meet tax and accounting rules.
+- Anonymous gameplay data and bug reports are kept as long as they are useful for improving the game.
+- Data on your device stays there until you delete the App or your saves.
+
+Deleting Your Data and Your Choices
+- Turn off "Share Anonymous Gameplay Data" or "Share Purchase Use for Refunds" in Settings at any time.
+- Change your ad and tracking choices in your device's settings, or delete and reinstall the App to see Google's consent form again.
+- To ask us to delete the data on our server that is linked to your anonymous account, or to ask what we hold, email general@twelve52cards.com. Tell us your platform and roughly when you played, and send a screenshot of any purchase receipt if you can. Because the data is anonymous, these details help us find it. We will reply within 30 days. Deleting purchase records means we can no longer restore those purchases for you.
+- Depending on where you live (for example the EEA, the UK, or California), you may have rights to access, correct, delete, or move your data and to object to some uses. Email us to use them. You may also contact your local data protection authority.
+
+International Transfers
+Our service providers may store and process data in the United States and other countries. Where required, they rely on legal safeguards such as standard contractual clauses.
+
+Changes to This Policy
+We may update this Privacy Policy from time to time. Changes will appear on this page with a new effective date.
+
+Contact Us
+twelve52 LLC
+general@twelve52cards.com
