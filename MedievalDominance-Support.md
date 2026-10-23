@@ -1,0 +1,34 @@
+# Support
+
+**Medieval Dominance**, Twelve52 LLC
+
+Having trouble? We're here to help.
+
+## Common questions
+
+**How do I restore a purchase?**  
+Open the App, go to Settings, and tap Restore Purchase. Remove Ads, the Season Pass and era scenario packs come back on any device signed in to the same Apple ID (iPhone and iPad) or Google account (Android). Season XP packs are used when bought and are not restored.
+
+**My progress was lost. Can I get it back?**  
+Your reign is saved on your device. If you deleted and reinstalled the App, local save data cannot be recovered. Game Center and Google Play Games keep your leaderboard standing and achievements.
+
+**What is Rival Houses?**  
+An optional list of other players' houses. Raise your banner to put your house on the lists so other players can raid it, and raid theirs in turn. Lower it at any time. If the lists will not load, check your connection; the rest of the game plays offline.
+
+**The game is slow on my phone (Android).**  
+Settings has a Performance mode that slows the faster game speeds a little to keep older phones smooth. It turns on by itself on phones with less memory.
+
+**The game is crashing or not loading.**  
+Close the App completely and reopen it. If the problem continues, make sure you have the latest version from the App Store or Google Play, then restart your device.
+
+**How do I turn off ads?**  
+Buy Remove Ads in the App's Store to remove banner and interstitial ads for good. Rewarded ads only ever play when you press their button.
+
+**How do I change my ad consent choice?**  
+Where it applies (for example in Europe, the UK and some US states), Settings > Ad privacy options. Elsewhere, use your device's ad and tracking settings.
+
+## Contact
+
+For bug reports, feedback or any other questions: general@twelve52cards.com
+
+We typically respond within 48 hours.
